@@ -6,12 +6,12 @@ O Quantum BH é um grupo de estudos em computação quântica criado pelos estud
 Em 2025, apresentamos uma palestra introdutória sobre Computação Quântica no evento Inforuso 2025, e seguimos ampliando nossas ações para tornar esse campo acessível à comunidade acadêmica e tecnológica de Belo Horizonte e do Brasil.
 
 <div align="center">
-  <a href="/#sobre-o-quantum-bh-sobre-o-quantum-bh"><img src="https://img.shields.io/badge/Sobre_o_quantum_bh-17222D" alt="Sobre o grupo"></a>ㅤㅤ
-  <a href="/#linhas-de-estudo-e-temas-centrais"><img src="https://img.shields.io/badge/O_que_estudamos-17222D" alt="O que estudamos"></a>ㅤㅤ
-  <a href="/#atividades-e-eventos"><img src="https://img.shields.io/badge/O_que_fazemos-17222D" alt="O que fazemos"></a>ㅤㅤ
-  <a href="/#materiais-did%C3%A1ticos-e-aulas"><img src="https://img.shields.io/badge/Materiais_e_aulas-17222D" alt="Materiais e aulas"></a>ㅤㅤ
-  <a href="/#como-participar"><img src="https://img.shields.io/badge/Como_participar-17222D" alt="Como participar"></a>ㅤㅤ
-  <a href="/#contato-e-parcerias"><img src="https://img.shields.io/badge/Contato_e_parcerias-17222D" alt="Contato e parcerias"></a>
+  <a href="https://github.com/quantumbelohorizonte#sobre-o-quantum-bh-sobre-o-quantum-bh"><img src="https://img.shields.io/badge/Sobre_o_quantum_bh-17222D" alt="Sobre o grupo"></a>ㅤㅤ
+  <a href="https://github.com/quantumbelohorizonte#linhas-de-estudo-e-temas-centrais"><img src="https://img.shields.io/badge/O_que_estudamos-17222D" alt="O que estudamos"></a>ㅤㅤ
+  <a href="https://github.com/quantumbelohorizonte#atividades-e-eventos"><img src="https://img.shields.io/badge/O_que_fazemos-17222D" alt="O que fazemos"></a>ㅤㅤ
+  <a href="https://github.com/quantumbelohorizonte#materiais-did%C3%A1ticos-e-aulas"><img src="https://img.shields.io/badge/Materiais_e_aulas-17222D" alt="Materiais e aulas"></a>ㅤㅤ
+  <a href="https://github.com/quantumbelohorizonte#como-participar"><img src="https://img.shields.io/badge/Como_participar-17222D" alt="Como participar"></a>ㅤㅤ
+  <a href="https://github.com/quantumbelohorizonte#contato-e-parcerias"><img src="https://img.shields.io/badge/Contato_e_parcerias-17222D" alt="Contato e parcerias"></a>
 </div>
 
 ### Sobre o Quantum BH
